@@ -1,4 +1,4 @@
-# TESTE DE CAIXA BRANCA
+# Teste de Caixa Branca
 
 **Sistema de Pedidos — Loja SENAI**
 
